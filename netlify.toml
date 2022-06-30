@@ -2,4 +2,4 @@
   command = "npm run build"
   publish = "build/"
   functions = "functions/"
-  base = "build/"
+  base = "build"
