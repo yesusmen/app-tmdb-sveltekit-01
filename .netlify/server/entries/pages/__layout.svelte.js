@@ -48,13 +48,13 @@ let netlify = "netlify.svg";
 let intelectual = "icon_developer.svg";
 const Footer = (0, import_index_6b489d84.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
-  return `<div class="${"red-social svelte-gbjkp5"}"><div class="${"icon-social svelte-gbjkp5"}"><a href="${"https://github.com/yesusmen"}" target="${"_blank"}"><img${(0, import_index_6b489d84.a)("src", github, 0)} alt="${"Github Yesusmen"}" class="${"svelte-gbjkp5"}"></a>
-        <a href="${"https://twitter.com/AraujoYesusmen"}" target="${"_blank"}"><img${(0, import_index_6b489d84.a)("src", twitter, 0)} alt="${"Twitter @AraujoYesusmen"}" class="${"svelte-gbjkp5"}"></a>
-        <a href="${"https://www.linkedin.com/in/yesusmen/"}" target="${"_blank"}"><img${(0, import_index_6b489d84.a)("src", linkedin, 0)} alt="${"LinkedIn Jes\xFAs Araujo"}" class="${"svelte-gbjkp5"}"></a></div>
-    <div class="${"provider svelte-gbjkp5"}"><a href="${"https://www.netlify.com/"}" target="${"_blank"}"><img${(0, import_index_6b489d84.a)("src", netlify, 0)} alt="${"Logo Netlify"}" class="${"svelte-gbjkp5"}"></a>
-        <a href="${"https://www.netlify.com/"}" target="${"_blank"}"><p>Deploy by Netlify</p></a></div>
+  return `<div class="${"red-social svelte-gbjkp5"}"><div class="${"icon-social svelte-gbjkp5"}"><a href="${"https://github.com/yesusmen"}"><img${(0, import_index_6b489d84.a)("src", github, 0)} alt="${"Github Yesusmen"}" class="${"svelte-gbjkp5"}"></a>
+        <a href="${"https://twitter.com/AraujoYesusmen"}"><img${(0, import_index_6b489d84.a)("src", twitter, 0)} alt="${"Twitter @AraujoYesusmen"}" class="${"svelte-gbjkp5"}"></a>
+        <a href="${"https://www.linkedin.com/in/yesusmen/"}"><img${(0, import_index_6b489d84.a)("src", linkedin, 0)} alt="${"LinkedIn Jes\xFAs Araujo"}" class="${"svelte-gbjkp5"}"></a></div>
+    <div class="${"provider svelte-gbjkp5"}"><a href="${"https://www.netlify.com/"}"><img${(0, import_index_6b489d84.a)("src", netlify, 0)} alt="${"Logo Netlify"}" class="${"svelte-gbjkp5"}"></a>
+        <a href="${"https://www.netlify.com/"}"><p>Deploy by Netlify</p></a></div>
     <div class="${"web-master svelte-gbjkp5"}"><img${(0, import_index_6b489d84.a)("src", intelectual, 0)} alt="${"intelectual"}" class="${"svelte-gbjkp5"}">
-        <p>by <strong class="${"svelte-gbjkp5"}"><a href="${"https://portafolio-yesus.netlify.app/"}" target="${"_blank"}" class="${"svelte-gbjkp5"}">Ing. Jes\xFAs E. Araujo G.
+        <p>by <strong class="${"svelte-gbjkp5"}"><a href="${"https://portafolio-yesus.netlify.app/"}" class="${"svelte-gbjkp5"}">Ing. Jes\xFAs E. Araujo G.
                 </a></strong> 2022
         </p></div>
 </div>`;

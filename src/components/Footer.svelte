@@ -8,21 +8,21 @@
 
 <div class="red-social">
     <div class="icon-social">
-        <a href="https://github.com/yesusmen" target="_blank">
+        <a href="https://github.com/yesusmen">
             <img src={github} alt="Github Yesusmen">
         </a>
-        <a href="https://twitter.com/AraujoYesusmen" target="_blank">
+        <a href="https://twitter.com/AraujoYesusmen">
             <img src={twitter} alt="Twitter @AraujoYesusmen">
         </a>
-        <a href="https://www.linkedin.com/in/yesusmen/" target="_blank">
+        <a href="https://www.linkedin.com/in/yesusmen/">
             <img src={linkedin} alt="LinkedIn Jesús Araujo">
         </a>
     </div>
     <div class="provider">
-        <a href="https://www.netlify.com/" target="_blank">
+        <a href="https://www.netlify.com/">
             <img src={netlify} alt="Logo Netlify">
         </a>
-        <a href="https://www.netlify.com/" target="_blank">
+        <a href="https://www.netlify.com/">
             <p>Deploy by Netlify</p>
         </a>
     </div>
@@ -30,7 +30,7 @@
         <img src={intelectual} alt="intelectual">
         <p>
             by <strong>
-                <a href="https://portafolio-yesus.netlify.app/" target="_blank">
+                <a href="https://portafolio-yesus.netlify.app/">
                     Ing. Jesús E. Araujo G.
                 </a>
             </strong> 2022
