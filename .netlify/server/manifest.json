@@ -1,0 +1,95 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/build/hooks.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-9bbcb9f0.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "entries/pages/about.svelte.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js"
+    ],
+    "css": [
+      "assets/entries/pages/about.svelte-d51a984f.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js",
+      "_MovieCard-8be229d5.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-df205e9c.css"
+    ]
+  },
+  "src/routes/movie/[id].svelte": {
+    "file": "entries/pages/movie/_id_.svelte.js",
+    "src": "src/routes/movie/[id].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js"
+    ],
+    "css": [
+      "assets/entries/pages/movie/_id_.svelte-325cdfb0.css"
+    ]
+  },
+  "src/routes/search/[id].svelte": {
+    "file": "entries/pages/search/_id_.svelte.js",
+    "src": "src/routes/search/[id].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-6b489d84.js",
+      "_MovieCard-8be229d5.js"
+    ],
+    "css": [
+      "assets/entries/pages/search/_id_.svelte-0a4943ca.css"
+    ]
+  },
+  "_index-6b489d84.js": {
+    "file": "chunks/index-6b489d84.js"
+  },
+  "_MovieCard-8be229d5.js": {
+    "file": "chunks/MovieCard-8be229d5.js",
+    "imports": [
+      "_index-6b489d84.js"
+    ],
+    "css": [
+      "assets/MovieCard-007ff17d.css"
+    ]
+  },
+  ".svelte-kit/build/hooks.js": {
+    "file": "chunks/hooks-1c45ba0b.js",
+    "src": ".svelte-kit/build/hooks.js",
+    "isDynamicEntry": true
+  }
+}
