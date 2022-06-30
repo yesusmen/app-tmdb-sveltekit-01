@@ -27,7 +27,7 @@ const css$1 = {
   code: ".container.svelte-ukrizw.svelte-ukrizw{display:flex;min-height:10vh;align-items:center;justify-content:space-between}a.svelte-ukrizw.svelte-ukrizw{font-size:1rem;font-weight:bold;font-family:'Poppins';color:black;text-decoration:none}.img.svelte-ukrizw.svelte-ukrizw{width:40px}.brand.svelte-ukrizw.svelte-ukrizw{display:flex;align-items:center}.text-brand.svelte-ukrizw.svelte-ukrizw{margin-left:1rem;padding:0}.nav-item.svelte-ukrizw.svelte-ukrizw{display:flex;align-items:center;margin-right:1rem}.nav-item.svelte-ukrizw p.svelte-ukrizw:hover{color:rgb(96,100,201)}.text-link.svelte-ukrizw.svelte-ukrizw{margin-left:0.7rem}",
   map: null
 };
-let logo = "yesus_perfil.png";
+let logo = "image/yesus_perfil.png";
 const Navbar = (0, import_index_6b489d84.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css$1);
   return `<nav><div class="${"container svelte-ukrizw"}"><div class="${"brand svelte-ukrizw"}"><a href="${"/"}" class="${"svelte-ukrizw"}"><img${(0, import_index_6b489d84.a)("src", logo, 0)} alt="${"Logo Jes\xFAs Araujo"}" class="${"img svelte-ukrizw"}"></a>
@@ -41,11 +41,11 @@ const css = {
   code: ".red-social.svelte-gbjkp5.svelte-gbjkp5{margin-top:3rem;margin-bottom:3rem}.icon-social.svelte-gbjkp5.svelte-gbjkp5{display:flex;align-items:center;justify-content:center}.icon-social.svelte-gbjkp5 img.svelte-gbjkp5{width:2.2rem;margin:0.5rem}.provider.svelte-gbjkp5.svelte-gbjkp5{display:flex;align-items:center;justify-content:center}.provider.svelte-gbjkp5 img.svelte-gbjkp5{width:2.5rem;margin-right:0.5rem}.web-master.svelte-gbjkp5.svelte-gbjkp5{display:flex;align-items:center;justify-content:center}.web-master.svelte-gbjkp5 img.svelte-gbjkp5{width:2.5rem;margin-right:0.5rem}.web-master.svelte-gbjkp5 p strong.svelte-gbjkp5{margin:0 0.5rem 0 0.5rem;color:#FE5D15}.web-master.svelte-gbjkp5 p strong a.svelte-gbjkp5{text-decoration:none;color:#FE5D15}",
   map: null
 };
-let github = "icon_github.svg";
-let twitter = "icon_twitter.svg";
-let linkedin = "icon_linkedin.svg";
-let netlify = "netlify.svg";
-let intelectual = "icon_developer.svg";
+let github = "image/icon_github.svg";
+let twitter = "image/icon_twitter.svg";
+let linkedin = "image/icon_linkedin.svg";
+let netlify = "image/netlify.svg";
+let intelectual = "image/icon_developer.svg";
 const Footer = (0, import_index_6b489d84.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
   return `<div class="${"red-social svelte-gbjkp5"}"><div class="${"icon-social svelte-gbjkp5"}"><a href="${"https://github.com/yesusmen"}"><img${(0, import_index_6b489d84.a)("src", github, 0)} alt="${"Github Yesusmen"}" class="${"svelte-gbjkp5"}"></a>

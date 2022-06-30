@@ -25,10 +25,10 @@ __export(stdin_exports, {
 module.exports = __toCommonJS(stdin_exports);
 const manifest = {
   appDir: "_app",
-  assets: /* @__PURE__ */ new Set(["favicon-32x32.png", "favicon.png", "icon_api.svg", "icon_developer.svg", "icon_doc.svg", "icon_github.svg", "icon_linkedin.svg", "icon_twitter.svg", "icon_twitter_circled.svg", "netlify.svg", "yesus_perfil.png"]),
+  assets: /* @__PURE__ */ new Set(["image/favicon-32x32.png", "image/favicon.png", "image/icon_api.svg", "image/icon_developer.svg", "image/icon_doc.svg", "image/icon_github.svg", "image/icon_linkedin.svg", "image/icon_twitter.svg", "image/icon_twitter_circled.svg", "image/netlify.svg", "image/yesus_perfil.png"]),
   mimeTypes: { ".png": "image/png", ".svg": "image/svg+xml" },
   _: {
-    entry: { "file": "start-8b635931.js", "js": ["start-8b635931.js", "chunks/index-abd8c638.js", "chunks/singletons-d1fb5791.js"], "css": [] },
+    entry: { "file": "start-782244e4.js", "js": ["start-782244e4.js", "chunks/index-abd8c638.js", "chunks/singletons-d1fb5791.js"], "css": [] },
     nodes: [
       () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),

@@ -1,5 +1,5 @@
 <script>
-let logo = 'yesus_perfil.png'
+let logo = 'image/yesus_perfil.png'
 
 </script>
 <nav>

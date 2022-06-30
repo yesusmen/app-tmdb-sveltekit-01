@@ -1,9 +1,9 @@
 <script>
-    let github = 'icon_github.svg'
-    let twitter = 'icon_twitter.svg'
-    let linkedin = 'icon_linkedin.svg'
-    let netlify = 'netlify.svg'
-    let intelectual = 'icon_developer.svg'
+    let github = 'image/icon_github.svg'
+    let twitter = 'image/icon_twitter.svg'
+    let linkedin = 'image/icon_linkedin.svg'
+    let netlify = 'image/netlify.svg'
+    let intelectual = 'image/icon_developer.svg'
 </script>
 
 <div class="red-social">
